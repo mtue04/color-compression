@@ -14,7 +14,7 @@ You can install the required libraries using:
 ## How to Run
 1. Clone the repository and navigate to the project directory.
 2. Prepare the images to compress and place them in the images/ folder.
-3. Run cells in Jupyter file `22127440.ipyn`
+3. Run cells in Jupyter file `22127440.ipynb`
 
 ## Features
   - Mini Batch K-Means: The script uses the Mini Batch K-Means algorithm for faster processing, especially with large images.
