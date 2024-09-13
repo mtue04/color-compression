@@ -8,6 +8,7 @@ The project relies on the following Python libraries:
   - numpy
   - PIL (Pillow)
   - matplotlib
+
 You can install the required libraries using:
 `pip install numpy pillow matplotlib`
 
